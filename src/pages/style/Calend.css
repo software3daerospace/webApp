@@ -1,0 +1,24 @@
+
+  .rbc-calendar{
+    width:100% !important;
+    height:164% !important;
+    color: white;
+  }
+
+  .rbc-event{
+    background-color: #8000ff !important;
+  }
+
+
+  .rbc-event{
+  background-color: #e1b100 !important;
+  }
+
+  
+  .rbc-time-slot {
+    flex: 0 0;
+  }
+
+  .rbc-time-header > .rbc-row:nth-of-type(2) {
+    display: none !important;
+}

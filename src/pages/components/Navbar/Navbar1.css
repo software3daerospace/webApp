@@ -1,0 +1,15 @@
+.back{
+    position: absolute;
+    width: 36px;
+    height: 25px;
+    left: 250px;
+    top: 53px;
+}
+
+.quit{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 1555px;
+    top: 53px;  
+}

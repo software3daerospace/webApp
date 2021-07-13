@@ -1,0 +1,84 @@
+.aide{
+    position: absolute;
+    width: 1087px;
+    height: 774px;
+    left: 350px;
+    top: 130px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.help11{
+    position: absolute;
+    left: 60%;
+    right: 50%;
+    top: 250px;
+    bottom: 72.66%;
+    background: #2E2A2A;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.help12{
+    position: absolute;
+    left: 60%;
+    right: 24.62%;
+    top: 340px;
+    bottom: 63.57%;
+    background: #2E2A2A;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.help13{
+    position: absolute;
+    left: 60%;
+    right: 24.62%;
+    top: 430px;
+    bottom: 54.49%;
+    background: #2E2A2A;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+
+}
+
+.help2{
+    position: absolute;
+    width: 365px;
+    height: 183px;
+    left: 60%;
+    top: 520px;
+    background: #2E2A2A;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.col1{
+    position : absolute;
+    top: 250px;
+    left: 60%;
+}
+
+.paragraph{
+    position: absolute;
+    width: 450px;
+    height: 131px;
+    left: 350px;
+    top: 259px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}

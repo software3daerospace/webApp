@@ -1,0 +1,70 @@
+.new{
+    position: absolute;
+    left: 39.5%;
+    right: 41.18%;
+    top: 35.84%;
+    bottom: 60.74%;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: -0.333333px;
+    
+    color: #F2F2F2;
+     
+}
+
+.boxing{
+    position: absolute;
+    left: 39.5%;
+    right: 58%;
+    top: 46%;
+    bottom: 50%;
+}
+
+.line1{
+    position: absolute;
+    width: 40px;
+    height: 0px; 
+    border: 1px solid #FFFFFF;
+    left: 42%;
+    right: 58%;
+    top: 50%;
+    bottom: 50%;    
+}
+
+.line2{
+    position: absolute;
+    width: 40px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    left: 46%;
+    right: 58%;
+    top: 50%;
+    bottom: 50%;  
+}
+
+.line3{
+    position: absolute;
+    width: 40px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    left: 50%;
+    right: 58%;
+    top: 50%;
+    bottom: 50%;  
+}
+
+.line4{
+    position: absolute;
+    width: 40px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    left: 54%;
+    right: 58%;
+    top: 50%;
+    bottom: 50%;  
+}

@@ -1,0 +1,47 @@
+.titre{
+
+    position: absolute;
+    width: 240px;
+    height: 41px;
+    left: 800px;
+    top: 135px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #FFFFFF;
+}
+
+.textfin{
+    position: absolute;
+    width: 1026px;
+    height: 34px;
+    left: 457px;
+    top: 337px;
+    
+    margin-left: -50px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: #F2F2F2;  
+}
+
+.figyes{
+    position: absolute;
+    left: 44.1%;
+    right: 44.1%;
+    top: 43.75%;
+    bottom: 43.75%;
+    margin-top: 50px;
+}

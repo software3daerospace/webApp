@@ -1,0 +1,109 @@
+.cam{
+    position: absolute;
+    width: 100%;
+    height: 615px;
+    left: 0px;
+    top: 0px;
+    border-color: black;
+}
+
+.recv{
+    position: absolute;
+    width: 136px;
+    height: 147px;
+    left: 45%;
+    top: 700px; 
+}
+
+.vec1{
+    position: absolute;
+    left: 48.9%;
+    right: 45.83%;
+    top: 66.5%;
+    bottom: 29.39%;
+}
+
+.vec21{
+    position: absolute;
+    left: 45.85%;
+    right: 51.74%;
+    top: 66.5%;
+    bottom: 29.39%;
+}
+
+.vec22{
+    position: absolute;
+    left: 41.69%;
+    right: 56.39%;
+    top: 77.54%;
+    bottom: 18.36%;
+}
+
+.vec23{
+    position: absolute;
+    left: 41.69%;
+    right: 56.39%;
+    top: 83.01%;
+    bottom: 12.89%;
+}
+
+.vec24{
+    position: absolute;
+    left: 47.47%;
+    right: 48.61%;
+    top: 89.06%;
+    bottom: 6.84%;
+}
+
+.vec25{
+    position: absolute;
+    left: 53.4%;
+    right: 40.9%;
+    top: 77.54%;
+    bottom: 18.36%;
+}
+
+.vec26{
+    position: absolute;
+    left: 53.4%;
+    right: 40.9%;
+    top: 72.07%;
+    bottom: 23.83%;
+}
+.tit{
+    position: absolute;
+    width: 278px;
+    height: 41px;
+    left: 43px;
+    top: 620px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+.cont{
+    position: absolute;
+    width: 517px;
+    height: 20px;
+    left: 43px;
+    top: 683px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}

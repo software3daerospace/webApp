@@ -1,0 +1,46 @@
+.titre{
+
+position: absolute;
+width: 240px;
+height: 41px;
+left: 800px;
+top: 135px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+}
+
+.texte{
+
+position: absolute;
+width: 520px;
+height: 98px;
+left: 680px;
+top: 336px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 35px;
+
+color: #F2F2F2;
+}
+
+.formulaire{
+
+position: absolute;
+width: 365px;
+height: 158px;
+left: 720px;
+top: 465px;
+}

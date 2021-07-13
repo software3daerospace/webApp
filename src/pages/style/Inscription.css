@@ -1,0 +1,131 @@
+
+.title-inscription{
+    position: absolute;
+    width: 192px;
+    height: 41px;
+    left: 780px;
+    top: 100px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+    }
+
+    .grid{
+        padding-right: 200px;
+        padding-left: 200px;
+    }
+
+    .inscription-form1{
+        position: absolute;
+        padding-left: 300px;
+        padding-top: 37px;
+        width: 600px;
+    }
+
+    .inscription-form2{
+        position: absolute;
+        padding-left: 50px;
+        padding-top: 37px;
+        width: 600px;
+    }
+
+    .ic1{
+        position: absolute;
+        left: 23.12%;
+        right: 51.53%;
+        top: 25%;
+        bottom: 74.22%;
+    }
+
+    .ic2{
+        position: absolute;
+        left: 23.12%;
+        right: 51.53%;
+        top: 35%;
+        bottom: 74.22%;
+    }
+    .ic3{
+        position: absolute;
+        left: 23.12%;
+        right: 51.53%;
+        top: 45%;
+        bottom: 74.22%;
+    }
+
+    .ic4{
+        position: absolute;
+        left: 23.12%;
+        right: 51.53%;
+        top: 55%;
+        bottom: 74.22%;
+    }
+
+    .ic5{
+        position: absolute;
+        left: 23.12%;
+        right: 51.53%;
+        top: 65%;
+        bottom: 74.22%;
+    }
+    .ic6{
+        position: absolute;
+        left: 23.12%;
+        right: 51.53%;
+        top: 75%;
+        bottom: 74.22%;
+    }
+
+    .ic7{
+        position: absolute;
+        left: 51.12%;
+        right: 51.53%;
+        top: 25%;
+        bottom: 74.22%;
+    }
+
+    .ic8{
+        position: absolute;
+        left: 51.12%;
+        right: 51.53%;
+        top: 35%;
+        bottom: 74.22%;
+    }
+    .ic9{
+        position: absolute;
+        left: 51.12%;
+        right: 51.53%;
+        top: 45%;
+        bottom: 74.22%;
+    }
+
+    .ic10{
+        position: absolute;
+        left: 51.12%;
+        right: 51.53%;
+        top: 55%;
+        bottom: 74.22%;
+    }
+
+    .ic11{
+        position: absolute;
+        left: 51.12%;
+        right: 51.53%;
+        top: 65%;
+        bottom: 74.22%;
+    }
+    .ic12{
+        position: absolute;
+        left: 51.12%;
+        right: 51.53%;
+        top: 75%;
+        bottom: 74.22%;
+    }

@@ -1,0 +1,94 @@
+.title{
+    position: absolute;
+    width: 367px;
+    height: 29px;
+    left: 170px;
+    top: 47px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+    
+.employee{
+    position: absolute;
+    width: 61px;
+    height: 88px;
+    left: 434px;
+    top: 136px;
+}
+
+.vehicule{
+    position: absolute;
+    width: 59px;
+    height: 88px;
+    left: 549px;
+    top: 136px;  
+}
+
+.full{
+    position: absolute;
+    width: 318px;
+    height: 83px;
+    left: 433px;
+    top: 301px;
+    background: #F2F2F2;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+.empty1{
+    position: absolute;
+    width: 319px;
+    height: 83px;
+    left: 433px;
+    top: 414px;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+.lea{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 458px;
+    top: 300px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: -0.333333px;
+    color: #2C2C2C;
+}
+
+.thomas{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 458px;
+    top: 300px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: -0.333333px;
+    color: #F2F2F2;
+}
+
+.fred{
+
+}
+
+.celia{
+
+}

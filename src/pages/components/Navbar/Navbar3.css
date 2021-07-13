@@ -1,0 +1,131 @@
+.account{
+    position: absolute;
+    left: 5%;
+    right: 0%;
+    top: 5%;
+    bottom: 0%;
+
+}
+
+.cal{
+    position: absolute;
+    left: 8.5%;
+    right: 92.42%;
+    top: 5%;
+    bottom: 94.92%;
+
+}
+
+.repart{
+    position: absolute;
+    width: 516px;
+    height: 26px;
+    left: 508px;
+    top: 78px;
+
+    font-family: Heebo;
+    font-style: inherit ;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+.suivi{
+    position: absolute;
+    width: 546px;
+    height: 26px;
+    left: 906px;
+    top: 78px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+
+}
+
+.results{
+    position: absolute;
+    width: 89px;
+    height: 26px;
+    left: 1205px;
+    top: 78px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+.under{
+    position: absolute;
+    width: 270px;
+    height: 0px;
+    left: 508px;
+    top: 130px;
+
+    border: 2px solid #FFFFFF;
+}
+
+.options{
+    position: absolute;
+    left: 90%;
+    right: 0%;
+    top: 5%;
+    bottom: 0%;
+
+}
+
+.actual{
+    position: absolute;
+    left: 30.88%;
+    right: 67.87%;
+    top: 19.14%;
+    bottom: 83.11%;
+}
+
+.text{
+    position: absolute;
+    width: 602px;
+    height: 17px;
+    left: 80px;
+    top: 220px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+}
+
+.info{
+    position: absolute;
+    width: 519px;
+    height: 22px;
+    left: 200px;
+    top: 169px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+
+    /* identical to box height */
+    letter-spacing: -0.333333px;
+
+    color: #F2F2F2;
+}

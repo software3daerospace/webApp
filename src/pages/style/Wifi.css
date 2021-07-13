@@ -1,0 +1,127 @@
+.tit{
+    position: absolute;
+    width: 340px;
+    height: 41px;
+    left: 42%;
+    top: 120px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+.par{
+    position: absolute;
+    width: 650px;
+    height: 98px;
+    left: 33%;
+    top: 250px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    
+    color: #F2F2F2;
+}
+
+.vec1{
+    position: absolute;
+    left: 38.29%;
+    right: 37.36%;
+    top: 45.41%;
+    bottom: 48.63%;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    background: #2E2A2A;
+}
+
+.nr{
+    position: absolute;
+    left: 40.29%;
+    right: 37.36%;
+    top: 420px;
+    bottom: 48.63%;
+}
+
+.vec2{
+    position: absolute;
+    left: 38.29%;
+    right: 37.36%;
+    top: 55.41%;
+    bottom: 48.63%;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    background: #2E2A2A;
+}
+
+.cs{
+    position: absolute;
+    left: 28.29%;
+    right: 37.36%;
+    top: 515px;
+    bottom: 48.63%;
+}
+
+.box{
+    position: absolute;
+    width: 62.33px;
+    height: 33px;
+    left: 750px;
+    top: 670px;
+}
+
+.phone{
+    position: absolute;
+    width: 22px;
+    height: 39px;
+    left: 780px;
+    top: 734px;
+}
+
+.des1{
+    position: absolute;
+    width: 131px;
+    height: 25px;
+    left: 920px;
+    top: 670px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.des2{
+    position: absolute;
+    width: 370px;
+    height: 25px;
+    left: 920px;
+    top: 734px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #FFFFFF;
+}

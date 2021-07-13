@@ -1,0 +1,94 @@
+.title-connexion{
+
+    position: absolute;
+    width: 192px;
+    height: 41px;
+    left: 820px;
+    top: 100px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+.form-connexion{
+    position: absolute;
+    width: 75%;
+    height: 20%;
+    right: 100px;
+    left: 700px;
+    top: 430px;
+    text-align: center;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 200px;
+
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+.button{
+    position: absolute;
+    width: 75%;
+    height: 20%;
+    right: 200px;
+    left: 0px;
+    top: 650px;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 700px;
+
+    font-family: "Heebo" ;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+        
+    color: #FFFFFF;
+}
+
+.mp{
+    position: absolute;
+    width: 75%;
+    height: 10%;
+    right: 200px;
+    left: 100px;
+    top: 650px;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 700px;
+    margin-left: 350px;
+        
+    font-family: "Heebo" ;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+            
+    color: #FFFFFF;    
+}
+
+.cc1{
+    position: absolute;
+    left: 40%;
+    right: 51.53%;
+    top: 48%;
+    bottom: 47.07%;
+}
+
+.cc2{
+    position: absolute;
+    left: 40%;
+    right: 51.53%;
+    top: 56.5%;
+    bottom: 47.07%;
+}

@@ -1,0 +1,49 @@
+.title{
+    position: absolute;
+    width: 240px;
+    height: 41px;
+    top: 135px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #FFFFFF;
+
+}
+
+.text{
+    position: absolute;
+    width: 520px;
+    height: 98px;
+    left: 620px;
+    top: 429px;
+    margin-left: 320px;
+  
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: left;
+    
+    color: #F2F2F2;
+    
+    
+}
+
+
+.rectangle{
+    position: absolute;
+    width: 638.78px;
+    height: 334.27px;
+    left: 122.71px;
+    top: 291.34px;
+    
+}

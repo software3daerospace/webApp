@@ -1,0 +1,36 @@
+.middle{
+position: absolute;
+left: 41.6%;
+right: 41.67%;
+top: 35.84%;
+bottom: 60.74%;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 35px;
+letter-spacing: -0.333333px;
+
+color: #F2F2F2;
+}
+
+.sub{
+position: absolute;
+left: 34.58%;
+right: 34.58%;
+top: 41.99%;
+bottom: 50.88%;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+letter-spacing: -0.333333px;
+
+color: #FFFFFF;
+
+
+}

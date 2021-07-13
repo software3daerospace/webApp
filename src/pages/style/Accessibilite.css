@@ -1,0 +1,72 @@
+.titlex{
+    position: absolute;
+    width: 162px;
+    height: 29px;
+    left: 434px;
+    top: 47px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.phrase{
+    position: relative;
+    width: 553px;
+    left: 434px;
+    top: 145px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
+
+.butt1{
+    position: absolute;
+    width: 64px;
+    height: 32px;
+    left: 1143px;
+    top: 170px;
+    color: #fff;
+    transform: rotate(180deg);
+}
+
+.butt2{
+    position: absolute;
+    width: 64px;
+    height: 32px;
+    left: 1143px;
+    top: 235px;
+
+    transform: rotate(180deg);
+}
+
+.butt3{
+    position: absolute;
+    width: 64px;
+    height: 32px;
+    left: 1143px;
+    top: 280px;
+    
+    transform: rotate(180deg);
+}
+
+.butt4{
+    position: absolute;
+    width: 64px;
+    height: 32px;
+    left: 1143px;
+    top: 326px;
+    
+    transform: rotate(180deg);
+}

@@ -1,0 +1,89 @@
+.motdepasse{
+    position: absolute;
+    left: 39.5%;
+    right: 41.18%;
+    top: 20%;
+    bottom: 60.74%;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: -0.333333px;
+    
+    color: #F2F2F2;
+     
+}
+
+.boxing1{
+    position: absolute;
+    left: 39.5%;
+    right: 58%;
+    top: 35%;
+    bottom: 50%;
+}
+
+.boxing2{
+    position: absolute;
+    left: 39.5%;
+    right: 58%;
+    top: 55%;
+    bottom: 50%;
+}
+
+.cond{
+    position: absolute;
+    width: 800px;
+    height: 84px;
+    left: 740px;
+    top: 420px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.333333px;
+    
+     color: #FFFFFF;
+}
+
+.try1{
+    position: absolute;
+    width: 230px;
+    height: 29px;
+    left : 780px;
+    top: 357px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+
+.try2{
+    position: absolute;
+    width: 320px;
+    height: 29px;
+    left : 780px;
+    top: 547px;
+    
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+}

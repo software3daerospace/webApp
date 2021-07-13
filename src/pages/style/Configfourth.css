@@ -1,0 +1,64 @@
+.title{
+    position: absolute;
+    width: 240px;
+    height: 41px;
+    top: 135px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #FFFFFF;
+
+}
+
+
+.text{
+    position: absolute;
+    width: 520px;
+    height: 98px;
+    left: 820px;
+    margin-top: -60px;
+    margin-left: 0px;
+    
+    font-family: Heebo;
+    line-height: 35px;
+    text-align: left;
+    
+    color: #F2F2F2;
+    
+}
+
+.txt{
+
+    position: absolute;
+    width: 484px;
+    height: 52px;
+    left: 820px;
+    margin-top: 30px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    
+    color: #F2F2F2;
+        
+}
+
+.wifi{ 
+    
+    position: absolute;
+    left: 5.35%;
+    right: 44.51%;
+    top: 21.68%;
+    bottom: 24.98%;
+
+}

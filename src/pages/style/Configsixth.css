@@ -1,0 +1,49 @@
+.titre{
+
+    position: absolute;
+    width: 240px;
+    height: 41px;
+    left: 800px;
+    top: 135px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #FFFFFF;
+    }
+    
+.textit{
+    
+    position: absolute;
+    width: 520px;
+    height: 98px;
+    left: 820px;
+    top: 429px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: #F2F2F2;
+    
+    }
+    
+.pic{
+    position: absolute;
+    left: 7.57%;
+    right: 61.04%;
+    top: 37.11%;
+    bottom: 41.7%;
+
+    opacity: 0.5;
+}

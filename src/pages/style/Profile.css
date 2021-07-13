@@ -1,0 +1,131 @@
+.tit1{
+    position: absolute;
+    width: 77px;
+    height: 29px;
+    left: 434px;
+    top: 47px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.cadre1{
+    position: absolute;
+    width: 626px;
+    height: 368px;
+    left: 434px;
+    top: 107px;
+    box-sizing: border-box;
+    border-radius: 31px;
+}
+
+.tit2{
+    position: absolute;
+    width: 104px;
+    height: 29px;
+    left: 434px;
+    top: 509px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.cadre2{
+    position: absolute;
+    width: 626px;
+    height: 413px;
+    left: 434px;
+    top: 583px;
+    border-radius: 31px;
+}
+
+.cray1{
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 1092px;
+    top: 268px;
+}
+
+.cray2{
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 1092px;
+    top: 730px;
+}
+
+.cont1{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 463px;
+    top: 130px;
+}
+
+.cont2{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 800px;
+    top: 130px;
+}
+
+.prénom{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: -0.333333px;
+
+    color: #F2F2F2;
+}
+
+.pren{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: -0.333333px;
+
+    color: #F2F2F2;
+}
+
+.cont3{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 463px;
+    top: 600px;
+}
+
+.cont4{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 800px;
+    top: 650px;
+}
